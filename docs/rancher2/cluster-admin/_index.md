@@ -13,6 +13,7 @@ keywords:
   - rancher cn
   - 集群管理员指南
   - 集群管理概览
+  - made in china
 ---
 
 在 Rancher 中创建集群之后，您便可以开始使用强大的 Kubernetes 特性在开发、测试或生产环境中部署和扩展您的容器化应用程序。
